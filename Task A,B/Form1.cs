@@ -39,7 +39,6 @@ namespace Task_A_B
 
         private void RemoveName_Click(object sender, EventArgs e)
         {          
-            //myqueue.Dequeue();
             myqueue.Remove(RemoveTextBox.Text);
             EntriesTextBox.Text = Convert.ToString(myqueue.NumItems());
             Names.Text = myqueue.DisplayQueue();
