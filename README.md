@@ -40,7 +40,7 @@ To reverse "John" and "Doe" in the queue:
 
 ## 🎥 Demo
 
-Watch the demo of the AI Image Generator Web App:
+Watch the demo of the QueueStack Manager project:
 
 [Demo Video](https://youtu.be/wB8RRBgBnls?si=uqIjG7HZu7N83ofK)
 
