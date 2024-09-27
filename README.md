@@ -38,6 +38,14 @@ To reverse "John" and "Doe" in the queue:
 
 ---
 
+## 🎥 Demo
+
+Watch the demo of the AI Image Generator Web App:
+
+[Demo Video](https://youtu.be/wB8RRBgBnls?si=uqIjG7HZu7N83ofK)
+
+---
+
 ## 🏆 Achievements
 
 This project was a fun challenge that helped me improve my **object-oriented programming** skills, apply core **data structure concepts**, and work on creating a user-friendly **Windows Forms** interface. I was able to ensure that the app handled errors smoothly and provided a clear, interactive experience for users. 💪
